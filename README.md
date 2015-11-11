@@ -1,1 +1,1 @@
-# be-mean-instagram-atividades
+# Atividades do Curso BeMean Instagram da Webschool!
